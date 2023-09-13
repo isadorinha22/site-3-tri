@@ -49,12 +49,12 @@
         border-radius: 40px;
     }
     
-    .isa.jpeg{
+    .cabecalho__imagem{
         margin: 20px;
         width: 300px;
         height: auto;
     }
-    .isa+gui.jpeg{
+    .professores{
     
         text-align: center;
     }

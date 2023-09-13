@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #BCB0B0;
+    background-color: #03e0dc;
     border-radius: 0px 0px 0px 400px;
     }
     
@@ -32,7 +32,7 @@
     
     .cabecalho__menu-item{
         font-size: 32px;
-        color:#FEC229
+        color:#2929fe
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
         display: inline;
@@ -42,19 +42,19 @@
     .escola{
         margin: 20px;
         padding: 20px;
-        background-color:#FEC229;
+        background-color:#2929fe;
         display: flex;
         justify-content: center;
         align-items: center;
         border-radius: 40px;
     }
     
-    .escola__imagem{
+    .isa.jpeg{
         margin: 20px;
         width: 300px;
         height: auto;
     }
-    .escola__titulo{
+    .isa+gui.jpeg{
     
         text-align: center;
     }
@@ -66,7 +66,7 @@
         display: grid;
         grid-template-columns:1fr 1fr 1fr ;
         grid-template-rows: auto auto auto auto;
-        background-color: #7a7a7a;
+        background-color: #ed1010;
         border-radius: 40px;
         margin: 20px;
         justify-items: center;
